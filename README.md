@@ -21,7 +21,7 @@ We solve this problem using the 0-1 Knapsack algorithm. Given the $10,000 total 
 
 ## Results
 
-Our final result shows that we are more than 4 times better in predicting churning clients compared to the baseline model, which results in almost 4 times larger financial gain.
+Our final result shows that we are more than 3 times better in predicting churning clients compared to the baseline model, which results in a financial gain more than 7 times the baseline.
 
 ## Description of the Data Set:
 **RowNumber**: corresponds to the record (row) number and has no effect on the output.  
