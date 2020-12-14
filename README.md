@@ -19,11 +19,11 @@ Finally, in the last (more realistic) case we rank our clients based on their ch
 This final case is much more challenging than the others given the freedom for choosing which clients to give the gift cards with different values.
 We solve this problem using the 0-1 Knapsack algorithm. Given the $10,000 total investment constraint and the clients with different (LTV, gift card value) combinations, this fits perfectly in the description of the Knapsack problem.
 
-## Results
+# Results
 
 Our final result shows that we are more than 4 times better in predicting churning clients compared to the baseline model, which results in a financial gain more than 22 times the baseline.
 
-## Description of the Data Set:
+### Description of the Data Set:
 **RowNumber**: corresponds to the record (row) number and has no effect on the output.  
 **CustomerId**: contains random values and has no effect on customer leaving the bank.  
 **Surname**: the surname of a customer has no impact on their decision to leave the bank.  
