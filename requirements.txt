@@ -60,6 +60,7 @@ pyzmq==20.0.0
 qtconsole==5.0.0
 QtPy==1.9.0
 scikit-learn==0.23.2
+scikit-plot==0.3.7
 scipy==1.5.4
 seaborn==0.11.0
 Send2Trash==1.5.0
@@ -72,3 +73,4 @@ traitlets==5.0.5
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
+xgboost==1.2.1
